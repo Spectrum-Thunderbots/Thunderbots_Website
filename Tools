@@ -13,7 +13,7 @@ a:link {
 }
 
 a:visited {
-  color: orange;
+  color: purple;
   background-color: transparent;
   text-decoration: none;
 }
