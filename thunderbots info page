@@ -81,9 +81,9 @@ a:active {
 <div class="dropdown">
   <button class="dropbtn">sites</button>
   <div class="dropdown-content">
-    <a href="robot_web_04.html">main</a>
-    <a href="www.google.com">tools</a>
-    <a href="www.google.com">web</a>
+    <a href="robot_web.html">main</a>
+    <a href="tools">tools</a>
+    <a href="https://spectrumthunderbots.weebly.com/">web</a>
   </div>
 </div>
 
