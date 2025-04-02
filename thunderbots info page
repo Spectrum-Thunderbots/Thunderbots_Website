@@ -11,6 +11,15 @@
 
 <style>
 
+.top{
+color:black;
+font-size:36px;
+font-family:luicda sans;
+text-decoration:bold;
+
+
+}
+
 a:link {
   color: black;
   background-color: transparent;
@@ -77,6 +86,10 @@ a:active {
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 </style>
+
+<div class="top">
+<p style="text-align:center">Spectrum Thunderbots</p>
+</div>
 
 <div class="dropdown">
   <button class="dropbtn">sites</button>
