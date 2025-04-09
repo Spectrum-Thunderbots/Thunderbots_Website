@@ -81,6 +81,19 @@ a:active {
 </style>
 
 
+<div class="top">
+<p style="text-align:center">Spectrum Thunderbots</p>
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn">sites</button>
+  <div class="dropdown-content">
+    <a href="robot_web.html">main</a>
+    <a href="tools">tools</a>
+    <a href="https://spectrumthunderbots.weebly.com/">web</a>
+  </div>
+</div>
+
 
 </main>
 </html>
